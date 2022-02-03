@@ -26,3 +26,8 @@ In the remote PC, do the following:
 5. After exploration, save the map by running ```rosrun map_server map_saver -f ~/map```
 6. To view the output of the raspicam_node and /tag_detections node, ```rqt_image_view```
 7. Run the pose estimation script by running ```rosrun turtlebot3_navigation detection.py```
+
+# REFERENCE:
+1. https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
+2. http://wiki.ros.org/ROS/Tutorials
+3. http://wiki.ros.org/explore_lite
